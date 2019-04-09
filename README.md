@@ -1,2 +1,2 @@
 # Transformers
-## Custome transformers for scikit-learn pipelines
+## Custom transformers for scikit-learn pipelines
